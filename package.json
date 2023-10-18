@@ -14,7 +14,7 @@
   "license": "MIT",
   "dependencies": {
     "@mw-cli/app2": "workspace:^",
-    "@mw-cli/mw-create": "^1.0.0",
+    "@mw-cli/mw-create": "workspace:^",
     "@types/node": "^20.4.9",
     "typescript": "^5.1.6"
   },

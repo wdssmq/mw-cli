@@ -1,5 +1,5 @@
 {
-  "name": "mw-create",
+  "name": "@mw-cli/mw-create",
   "version": "1.0.15",
   "description": "",
   "main": "./lib/bin/index.js",
